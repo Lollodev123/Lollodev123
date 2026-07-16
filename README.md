@@ -6,16 +6,20 @@ Most of my professional track record is in copy, growth and Italian localization
 
 ## Selected work
 
-- **[AlidTours platform](https://github.com/Lollodev123/alidtours-platform)** — a Next.js website, reviewable editorial workflow and sanitized n8n automations for lead intake, CRM hygiene, reporting and shared error handling.
-- **[Kinetic Monitor Pre-vis](https://github.com/Lollodev123/kinetic-monitor-previs)** — constraint-aware motion exploration with Python renderers and a scoped agent review/commit loop.
-- **[Aerodinamica guidata](https://github.com/Lollodev123/aerodinamica-guidata)** — an Italian learning product with lessons, quizzes, guided exercises and automated Pages deployment.
-- **[Cucina Felice](https://github.com/Lollodev123/cucina-felice)** — a local-first meal planner that turns real household recipes into a normalized shopping list.
+- **[AlidTours platform](https://github.com/Lollodev123/alidtours-platform)**: a Next.js website, reviewable editorial workflow and sanitized n8n automations for lead intake, CRM hygiene, reporting and shared error handling.
+- **[Cenere](https://github.com/Lollodev123/project-cenere)**: a semi-automatic ES/NQ futures trading system (C#/NinjaTrader, n8n, SQLite) with data ingestion, signal logic, backtesting, risk controls and a kill-switch. Built solo with an AI multi-agent dev workflow. In sandbox testing, not live.
+- **[Kinetic Monitor Pre-vis](https://github.com/Lollodev123/kinetic-monitor-previs)**: constraint-aware motion exploration with Python renderers and a scoped agent review/commit loop.
+- **[Aerodinamica guidata](https://github.com/Lollodev123/aerodinamica-guidata)**: an Italian learning product with lessons, quizzes, guided exercises and automated Pages deployment.
+- **[Cucina Felice](https://github.com/Lollodev123/cucina-felice)**: a local-first meal planner that turns real household recipes into a normalized shopping list.
+- **[CrossFit App](https://github.com/Lollodev123/crossfit-app)**: a personal goal-based training tracker that plans month-by-month toward Rx targets and logs progress against it. Local-first, with an optional sync backend.
+
+
 
 ## How I work
 
-I start with the user and the process: where time is lost, which exceptions matter and what must remain reviewable by a person. Then I choose the lightest useful tool — a Sheet, script, workflow, interface or agent — and make its limits visible.
+I start with the user and the process: where time is lost, which exceptions matter and what must remain reviewable by a person. Then I choose the lightest useful tool (a sheet, script, workflow, interface or agent) and make its limits visible.
 
-AI is part of the development workflow, not a substitute for ownership. I define the problem, shape the system, inspect the output, test the important paths and decide what ships.
+AI is a big part of my development workflows, but not a substitute for ownership. I define the problem, shape the system, inspect the output, test the important paths and decide what ships. Mostly orchestrating nowadays.
 
 ## Public and private work
 
