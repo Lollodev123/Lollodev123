@@ -1,28 +1,38 @@
 # Lorenzo Previato
 
-Growth marketer and builder working across problem discovery, automation, AI-assisted workflows and internal tools.
+**AI and automation systems builder.** I turn messy operational problems into reviewable workflows, internal tools, and focused products.
 
-Most of my professional track record is in copy, growth and Italian localization for SaaS and fintech. I started building JavaScript and Python automations in 2020 and now use that same systems mindset in client work, public product experiments and larger private projects.
+My background is in growth, copy, and Italian localization for SaaS and fintech. Since 2020 I have increasingly worked in JavaScript, Python, workflow automation, and agent-assisted delivery—using that mix to connect user needs, business processes, and implementation.
 
-## Selected work
+## Selected systems
 
-- **[AlidTours platform](https://github.com/Lollodev123/alidtours-platform)**: a Next.js website, reviewable editorial workflow and sanitized n8n automations for lead intake, CRM hygiene, reporting and shared error handling.
-- **[Cenere](https://github.com/Lollodev123/project-cenere)**: a semi-automatic ES/NQ futures trading system (C#/NinjaTrader, n8n, SQLite) with data ingestion, signal logic, backtesting, risk controls and a kill-switch. Built solo with an AI multi-agent dev workflow. In sandbox testing, not live.
-- **[Kinetic Monitor Pre-vis](https://github.com/Lollodev123/kinetic-monitor-previs)**: constraint-aware motion exploration with Python renderers and a scoped agent review/commit loop.
-- **[Aerodinamica guidata](https://github.com/Lollodev123/aerodinamica-guidata)**: an Italian learning product with lessons, quizzes, guided exercises and automated Pages deployment.
-- **[Cucina Felice](https://github.com/Lollodev123/cucina-felice)**: a local-first meal planner that turns real household recipes into a normalized shopping list.
-- **[CrossFit App](https://github.com/Lollodev123/crossfit-app)**: a personal goal-based training tracker that plans month-by-month toward Rx targets and logs progress against it. Local-first, with an optional sync backend.
+| Project | Problem | What I shipped |
+|---|---|---|
+| **[AlidTours platform](https://github.com/Lollodev123/alidtours-platform)** · [live preview](https://vigilant-final-preview.alidtours.pages.dev/it/) | Give a small travel business a safer way to manage content and recurring operations. | A Next.js content platform, Git-based editorial review, and four sanitized n8n workflows for lead intake, CRM follow-up, reporting, and shared error handling. |
+| **[Kinetic Monitor Pre-vis](https://github.com/Lollodev123/kinetic-monitor-previs)** | Make an expensive physical-installation concept reviewable before production. | A constraint-driven Python motion lab, diagnostic renders, tests, and a bounded agent-assisted critique loop for a 5×3 kinetic display. |
+| **[Cenere](https://github.com/Lollodev123/project-cenere)** | Turn a discretionary futures method into a deterministic, inspectable research pipeline. | A sandboxed ES/NQ system spanning data ingestion, signal logic, backtesting, risk controls, and a kill-switch, built with a multi-agent development workflow. It is research software, not a live-performance claim. |
+| **[Aerodinamica guidata](https://github.com/Lollodev123/aerodinamica-guidata)** · [live site](https://lollodev123.github.io/aerodinamica-guidata/) | Help an aeronautics student move from memorizing formulas to solving problems. | 9 lessons, 40 structured quizzes, 31 worked exercises, 22 generated diagrams, content checks, and automated GitHub Pages deployment. |
 
-
+Smaller product experiments include **[Cucina Felice](https://github.com/Lollodev123/cucina-felice)**, an offline-first meal planner with ingredient normalization, and a **[goal-based CrossFit tracker](https://github.com/Lollodev123/crossfit-app)** with local-first storage and optional self-hosted sync.
 
 ## How I work
 
-I start with the user and the process: where time is lost, which exceptions matter and what must remain reviewable by a person. Then I choose the lightest useful tool (a sheet, script, workflow, interface or agent) and make its limits visible.
+1. **Start with the process.** Find where time is lost, which exceptions matter, and what outcome would count as useful.
+2. **Make boundaries explicit.** Separate automation from decisions that still need human review; define privacy, failure, and operating limits early.
+3. **Use the lightest tool that holds up.** That may be a script, workflow, interface, agent, or a combination—not a predetermined stack.
+4. **Ship something inspectable.** Tests, diagnostics, audit trails, preview environments, and honest limitations matter more than a polished demo alone.
+5. **Measure adoption and impact.** A system creates value only when people can use it reliably and the before/after change is visible.
 
-AI is a big part of my development workflows, but not a substitute for ownership. I define the problem, shape the system, inspect the output, test the important paths and decide what ships. Mostly orchestrating nowadays.
+AI is part of my engineering workflow, not a substitute for ownership. I define the problem and constraints, direct the work, review the output, test important paths, and decide what ships.
 
-## Public and private work
+## Where I can add leverage
 
-This profile is a selected public surface, not a complete work timeline. Much of my earlier work happened in client or private repositories, or outside this GitHub account. Most production, client and commercial code remains private; where useful, I can walk through sanitized architecture and implementation details in a conversation.
+- operational AI and workflow automation;
+- internal tools that connect teams, data, and existing software;
+- agent-assisted delivery with human approval and visible failure paths;
+- product discovery and rapid, testable prototypes;
+- translating between business users and technical implementation.
+
+This profile is a selected public surface, not a complete work timeline. Most production and client work remains private; I can share sanitized architecture and implementation walkthroughs where appropriate.
 
 [LinkedIn](https://www.linkedin.com/in/lorenzo-previato/) · [Email](mailto:lorenzo.previato@lpconsultings.com)
